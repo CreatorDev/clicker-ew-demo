@@ -1,0 +1,9 @@
+contiki*
+obj_mikro-e
+packages/AwaLWM2M
+packages/LetMeCreateIoT
+*.hex
+*.mikro-e
+symbols.c
+symbols.h
+
